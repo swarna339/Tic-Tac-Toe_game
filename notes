@@ -1,0 +1,50 @@
+// Window object:
+// window keyword . alert .
+
+// DOM:Document object model
+// console.log: print 
+// console.log:dir : document printing
+// Dynamic changes can be done using dom .
+// DOM Manipulation: 
+// document.getElementById("myid")
+// document.getElementByClassName("myClass")
+// document.getElementByTagName("p");
+
+// query selector :
+// single selector:query selector
+// query selectorall
+
+
+// DOM Properties:
+// tagName:
+// innerText:pure  text Content
+// innerHTML:pure tags returns
+// textContent:both set and get the value
+// DOM Manipulation:
+// getattribute(attr)
+// setAttribute(attr,value)
+//  Style
+// Node.style
+// insert elements
+// node.append(el)
+// node.prepend(el)
+// node.before(el)
+// node.after(el)
+// delete element
+// node.remove(el)
+
+// event handling:
+// Node.event=()=>{
+    // handle event
+// }
+
+// Event object
+// node.event=(e)=>{
+    // handle here
+// }  
+// 
+
+// Event listeners
+// node.addEventListeners(event,callback)
+// node.removeEventListener(event,callback)
+
